@@ -1,2 +1,0 @@
-# accelerant
-Created with CodeSandbox
